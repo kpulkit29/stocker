@@ -1,4 +1,3 @@
-#! /usr/bin/env sh
 #Author kpulkit29
 #Github https://github.com/kpulkit29
 
